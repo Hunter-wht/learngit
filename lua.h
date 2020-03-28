@@ -4,7 +4,7 @@
 ** Lua.org, PUC-Rio, Brazil (http://www.lua.org)
 ** See Copyright Notice at the end of this file
 */
-
+//添加修改
 
 #ifndef lua_h
 #define lua_h
